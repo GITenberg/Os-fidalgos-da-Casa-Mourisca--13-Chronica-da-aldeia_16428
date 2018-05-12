@@ -1,0 +1,41 @@
+_repo: Os-fidalgos-da-Casa-Mourisca--13-Chronica-da-aldeia_16428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dinis, Júlio
+    aliases:
+    - Coelho, Jose Joaquim Gomes
+    - Dinis, Julio
+    - De Aveleda, Diana
+    - Coelho, Joaquim Guilherme Gomes
+    - Denis, Júlio
+    - Diniz, Júlio
+    - Deniz, Júlio
+    - Coelho, José Joaquim Gomes
+    - Aveleda, Diana de
+    - Gomes Coelho, Joaquim Guilherme
+    birthdate: 1839
+    deathdate: 1871
+    gutenberg_agent_id: '6700'
+    url: http://www.gutenberg.org/2009/agents/6700
+    wikipedia: http://pt.wikipedia.org/wiki/Júlio_Dinis
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16428'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portugal -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Nobility -- Portugal -- Fiction'
+title: "Os fidalgos da Casa Mourisca\r\nChronica da aldeia"
+url: http://www.gutenberg.org/ebooks/16428
